@@ -1,4 +1,6 @@
-#GreyGuard
+# GreyGuard
+GreyGuard is a comprehensive mobile application designed to support elderly individuals, caregivers, and families by enhancing safety, promoting wellness, and simplifying daily health routines.
+Whether it's monitoring health vitals, managing medications, or sending emergency alerts, GreyGuard ensures seniors are always cared for — even from a distance.
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
